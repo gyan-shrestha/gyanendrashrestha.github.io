@@ -22,8 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "shrestha-gyan.jpg"
-  name             : "Gyanendra Shrestha"
-  pronouns         : # example: "she/her"  
+  name             : "Gyanendra Shrestha" 
   bio              : "CS PhD Student @FSU"
   location         : "171 LOV, Tallahassee, FL"
   email            : "gshrestha@fsu.edu" 
