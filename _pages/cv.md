@@ -51,3 +51,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+See my up-to-date CV [\[here\]](http://shresthagyanendra.github.io/files/CV_2024_gyanerdra.pdf)
