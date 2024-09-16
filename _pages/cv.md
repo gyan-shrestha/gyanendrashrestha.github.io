@@ -46,7 +46,7 @@ Publications
   
 Teaching
 ======
-Teaching assistant @FSU:
+*Teaching assistant @FSU:
   
 Service and leadership
 ======
