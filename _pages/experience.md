@@ -5,7 +5,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
-  - /resume
+  - /experience
 ---
 
 {% include base_path %}
