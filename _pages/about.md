@@ -11,11 +11,11 @@ I am a fourt-year Ph.D. student at the Florida State University. Prior to joinin
 
 Resreach Interest
 ---
-I have ,,,
+* I have ,,,
 
 News
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+---
+* Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
 
 Awards
