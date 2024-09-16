@@ -16,6 +16,7 @@ I have ,,,
 News
 ---
 * June-19-2024 , Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025
+* Dec. 2023: Passed Qualifying exam.
 
 Experience
 ------
