@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gyanendra Shrestha's Homepage"
 title_separator          : "-"
 name                     : &name "Gyanendra Shrestha"
-description              : &description "Ph.D. Student@FSU(2021.1-)"
+description              : &description "Ph.D. Student@FSU"
 # url                      : https://gyanendrashrestha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://gyan-shrestha.github.io/gyanendrashrestha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "shrestha-gyan.jpg"
   name             : "Gyanendra Shrestha" 
-  bio              : "CS PhD Student @FSU (2021.1-)"
+  bio              : "CS Ph.D. Student @FSU"
   location         : "171 LOV, Tallahassee, FL"
   email            : "gshrestha@fsu.edu" 
 
