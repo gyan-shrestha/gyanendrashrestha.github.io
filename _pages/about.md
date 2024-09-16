@@ -4,7 +4,6 @@ title: "About"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I am a fourt-year Ph.D. student at the Florida State University. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University.
