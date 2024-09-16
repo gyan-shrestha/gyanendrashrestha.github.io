@@ -23,6 +23,3 @@ dimensions), and extracting text information using OCR (Tesseract, Leptonica).
 image processing. Collaborated with team members to collect sample images used in training the Haar Cascade Classifier for face detection 
 and implemented PCA-LDA algorithm for face recognition.  
 
-
-
-See my up-to-date CV [\[here\]](http://shresthagyanendra.github.io/files/CV_2024_gyanerdra.pdf)
