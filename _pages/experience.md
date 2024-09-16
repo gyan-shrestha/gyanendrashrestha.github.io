@@ -8,15 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Graduate Research Assistant
 ======
 * Ph.D in Computer Science, Florida State University , 2026 (expected)
 * B.E. in Electronics and Communicaiton Engineering, Tribhuvan University, 2017
 
-Experience
+Graduate Teaching Assistant
 ======
-* @ Florida State Univeresity
-  * Reserach assistnat, 05/2021 - 
+* Graduate Teaching Assistant in the Department of Computer Science for courses including Unix Tools (COP4342), Operating Systems (COP4610), Data Structures, and Algorithms 
+(COP4530), Introduction to Data Science (CAP5768), and Advanced Data Science (CAP5769). 
+  * Led recitation TA for 
   * Teaching assistant, 08/2021 - 08/2024
 
 * Fall 2015: Research Assistant
