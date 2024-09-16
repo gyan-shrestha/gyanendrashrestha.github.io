@@ -6,11 +6,12 @@ redirect_from:
   - /about/
 ---
 
-I am a fourt-year Ph.D. student at the Florida State University. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University.
+I am a fourt-year Ph.D. student at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University.
 
-Resreach Interest
+Resreach
 ---
-I have ,,,
+I'm interested in NLP, embeddings, deep leraning, generative AI, and Large Language Moddels. My currect reserach focus on developing deep learning embedding models for tabular data understanding to aid table search and data 
+fusion.
 
 News
 ---
