@@ -10,8 +10,7 @@ author_profile: true
 
 Graduate Research Assistant
 ======
-* Ph.D in Computer Science, Florida State University , 2026 (expected)
-* B.E. in Electronics and Communicaiton Engineering, Tribhuvan University, 2017
+*  Graduate Teaching Assistant in the Department of Computer Science
 
 Graduate Teaching Assistant
 ======
@@ -19,16 +18,6 @@ Graduate Teaching Assistant
 (COP4530), Introduction to Data Science (CAP5768), and Advanced Data Science (CAP5769). 
   * Led recitation TA for 
   * Teaching assistant, 08/2021 - 08/2024
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
