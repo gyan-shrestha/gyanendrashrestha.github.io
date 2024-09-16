@@ -11,7 +11,7 @@ I am a fourt-year Ph.D. student at the Florida State University. Prior to joinin
 
 Resreach Interest
 ---
-* I have ,,,
+I have ,,,
 
 News
 ---
@@ -20,4 +20,4 @@ News
 
 Awards
 ------
-dfdfd
+* dfd
