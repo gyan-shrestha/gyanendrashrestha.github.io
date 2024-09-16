@@ -20,9 +20,9 @@ News
 Experience
 ------
 
-@Florida State University
----
-Reserach assistant, 05/2021
+**@Florida State University
+Reserach assistant, 05/2021 -
+
 Teaching assistant, 05/2021 - 08/2024
 
 Awards
