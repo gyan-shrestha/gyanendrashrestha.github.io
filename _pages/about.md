@@ -28,7 +28,7 @@ Experiences
 
 * Summer 2021: Research Assistant
   * Florida State University
-  * Supervisor: Prof Xian Mallory
+  * Supervisor: Prof. Xian Mallory
  
 * @  Tekvortex Pvt. Ltd.
   * Software Engineer, 06/2020 - 12/2020
