@@ -17,6 +17,13 @@ News
 ---
 * June-19-2024 , Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025
 
+Experience
+------
+
+@Florida State University
+---
+Reserach assistant, 05/2021
+Teaching assistant, 05/2021 - 08/2024
 
 Awards
 ------
