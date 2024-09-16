@@ -15,7 +15,7 @@ I have ,,,
 
 News
 ---
-* Register a GitHub account if you don't have one and confirm your e-mail (required!)
+* June-19-2024 , Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025
 
 
 Awards
