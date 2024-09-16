@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
 ======
 * CancerKG (Big Lab, @FSU) - Web-scale, trustworthy Knowledge Graph on Cancer learned from millions of Web sources. The project is 
 currently in progress.
