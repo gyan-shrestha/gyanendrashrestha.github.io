@@ -9,7 +9,6 @@ redirect_from:
 I'm a fourth-year Ph.D. student at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University.
 
 See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrashrestha.github.io/tree/master/files/Gyanendra_Shrestha_Resume.pdf)
-See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrashrestha.github.io/files/Gyanendra_Shrestha_Resume.pdf)
 
 Resreach
 ------
@@ -24,10 +23,13 @@ News
 Experiences
 ------
 
-**@Florida State University
-Reserach assistant, 05/2021 - Present
+* @ Florida State Univeresity
+  * Reserach assistnat, 05/2024 - Present
+  * Teaching assistant, 08/2021 - 08/2024
 
-Teaching assistant, 05/2021 - 08/2024
+* Summer 2021: Research Assistant
+  * Florida State University
+  * Supervisor: Prof Xian Mallory
 
 Awards
 ------
