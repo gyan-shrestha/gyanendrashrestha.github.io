@@ -31,24 +31,9 @@ Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+   * Python, C/C++, JavaScript, SQL
+* Big Data & Machine Learning 
+  * Spark, MongoDB, Python (e.g. scikit-learn, numpy, pandas, matplotlib), PyTorch, TensorFlow
 
-Publications
-======
-* dfdf
 
-  
-Teaching
-======
-*Teaching assistant @FSU:
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
-See my up-to-date CV [\[here\]](http://shresthagyanendra.github.io/files/CV_2024_gyanerdra.pdf)
