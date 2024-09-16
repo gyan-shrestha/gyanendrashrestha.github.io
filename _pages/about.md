@@ -12,7 +12,7 @@ See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrash
 
 Resreach
 ------
-I'm interested in NLP, embeddings, deep leraning, generative AI, and Large Language Moddels. My currect reserach focus on developing deep learning embedding models for tabular data understanding to aid table search and data fusion. I have published reserach in esteemed conferences like EDBT and AAAI.
+I'm interested in NLP, embeddings, deep leraning, generative AI, and Large Language Moddels. My currect research focus on developing deep learning embedding models for tabular data understanding to aid table search and data fusion. I have published reserach in esteemed conferences like EDBT and AAAI.
 
 News
 ------
@@ -23,12 +23,21 @@ Experiences
 ------
 
 * @ Florida State Univeresity
-  * Reserach assistnat, 05/2024 - Present
+  * Reserach assistant, 05/2024 - Present
   * Teaching assistant, 08/2021 - 08/2024
 
 * Summer 2021: Research Assistant
   * Florida State University
   * Supervisor: Prof Xian Mallory
+ 
+* @  Tekvortex Pvt. Ltd.
+  * Software Engineer, 06/2020 - 12/2020
+ 
+* @  E&T Nepal Pvt. Ltd.
+  * Software Engineer, 01/2018 - 02/2020
+
+*@  Tribhuvan University, IOE, Thapathali Campus
+  * Assistant Lecturer, 01/2017 - 12/2017
 
 Awards
 ------
