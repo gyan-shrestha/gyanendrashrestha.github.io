@@ -16,8 +16,7 @@ Graduate Teaching Assistant
 ======
 * Graduate Teaching Assistant in the Department of Computer Science for courses including Unix Tools (COP4342), Operating Systems (COP4610), Data Structures, and Algorithms 
 (COP4530), Introduction to Data Science (CAP5768), and Advanced Data Science (CAP5769). 
-  * Led recitation TA for 
-  * Teaching assistant, 08/2021 - 08/2024
+  * Led recitation TA for Advanced Data Science (CAP5769)
   
 Skills
 ======
