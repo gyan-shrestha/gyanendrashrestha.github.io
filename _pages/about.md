@@ -6,14 +6,13 @@ redirect_from:
   - /about/
 ---
 
-I'm a fourth-year Ph.D. student at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University.
+I'm a fourth-year Ph.D. student in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University and gained valable industry experience for nearly three years.
 
 See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrashrestha.github.io/tree/master/files/Gyanendra_Shrestha_Resume.pdf)
 
 Resreach
 ------
-I'm interested in NLP, embeddings, deep leraning, generative AI, and Large Language Moddels. My currect reserach focus on developing deep learning embedding models for tabular data understanding to aid table search and data 
-fusion.
+I'm interested in NLP, embeddings, deep leraning, generative AI, and Large Language Moddels. My currect reserach focus on developing deep learning embedding models for tabular data understanding to aid table search and data fusion. I have published reserach in esteemed conferences like EDBT and AAAI.
 
 News
 ------
