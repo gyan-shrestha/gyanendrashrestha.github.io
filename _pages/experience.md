@@ -29,7 +29,7 @@ Software Engineer
 
 Software Engineer
 ======
-*  E&T Nepal Pvt. Ltd, Lokanthali, Bhaktapur, Nepal (Jan. 2018 - Feb. 2020)
+* E&T Nepal Pvt. Ltd, Lokanthali, Bhaktapur, Nepal (Jan. 2018 - Feb. 2020)
   * Developed automated 3D model recognition software for a major manufacturing part supplier in Japan, utilizing standard C++ library functions to reduce processing time by 10% and minimize memory consumption by 15%.
   * Relocated on-site to Japan (Core Concept Technologies Inc.) for three months to work closely with clients, accelerating project completion by 10% through direct collaboration and iterative feedback.
 
