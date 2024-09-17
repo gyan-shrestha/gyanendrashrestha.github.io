@@ -11,7 +11,7 @@ author_profile: true
 * CancerKG (Big Lab, @FSU)
   * Web-scale, trustworthy Knowledge Graph on Cancer learned from millions of Web sources. The project is currently in progress. [\[Link\]](http://www.cancerkg.org/) <br>
 * Improving the Accessibility of Dating Websites for Individuals with Visual Impairments
-  * Course project (CAP5778 Advanced Data Mining) [\PDF\]] (https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/blob/main/Gyanendra_Soumya%20ADM_Final_Report.pdf) [\[Code]] (https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/tree/main/Final-code) <br>
+  * Course project (CAP5778 Advanced Data Mining) [\PDF\]](https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/blob/main/Gyanendra_Soumya%20ADM_Final_Report.pdf) [\[Code]](https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/tree/main/Final-code) <br>
 * Cloudchomp (Tekvortex Pvt. Ltd)
   * An analytics tool to assist organizations in making data-driven decisions regarding the migration of resources from local private servers to AWS cloud. Enhanced the existing module by adding features such as disk, and memory usages analysis to help clients decide on migrating from on-premises servers to AWS Cloud.
 * Feature recognition of CAD data (E&T Nepal Pvt. Ltd)
