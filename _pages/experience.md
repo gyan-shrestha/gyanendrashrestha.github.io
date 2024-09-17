@@ -33,7 +33,7 @@ Software Engineer
   * Developed automated 3D model recognition software for a major manufacturing part supplier in Japan, utilizing standard C++ library functions to reduce processing time by 10% and minimize memory consumption by 15%.
   * Relocated on-site to Japan (Core Concept Technologies Inc.) for three months to work closely with clients, accelerating project completion by 10% through direct collaboration and iterative feedback.
 
-Assistant Lecture
+Assistant Lecturer
 ======
 * Tribhuvan University, IOE, Thapathali Campus, Nepal (Jan. 2017 - Dec. 2017)
   * Collaborated with Professor to prepare lecture notes, grade coursework and held lab sessions for courses including Image Processing and Pattern 
