@@ -15,5 +15,5 @@ author_profile: true
 * Feature recognition of CAD data (E&T Nepal Pvt. Ltd)
   * Automated 3D model recognition software for leading manufacturing industry in Japan. Collaborated with an expert team of Japan and Nepal to design software based on C++ using ACIS and spatial libraries from Spatial. The software’s objectives included recognizing geometrical shapes, identifying parts in CAD data of pins, measuring their attributes (e.g.,dimensions), and extracting text information using OCR (Tesseract, Leptonica).
 * Real Time Person Identification and Location Detection using Face Recognition
-  * Undergraduate Major Project using Open CV library for image processing. Collaborated with team members to collect sample images used in training the Haar Cascade Classifier for face detection and implemented PCA-LDA algorithm for face recognition [\[PDF\]]() [\[Code\]](https://github.com/gyan-shrestha/face_recognition)
+  * Undergraduate Major Project using Open CV library for image processing. Collaborated with team members to collect sample images used in training the Haar Cascade Classifier for face detection and implemented PCA-LDA algorithm for face recognition [\[PDF\]](https://github.com/gyan-shrestha/gyanendrashrestha.github.io/tree/master/files/Major_project_BEX.pdf) [\[Code\]](https://github.com/gyan-shrestha/face_recognition)
 
